@@ -1,0 +1,6 @@
+transformers @ git+https://github.com/huggingface/transformers.git@main
+torch
+accelerate
+pillow
+langchain>=0.3.0
+langgraph>=0.2.0
